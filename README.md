@@ -32,3 +32,8 @@ streamlined processes to empower customers and enhance complaint resolution effi
 5. Create a new database naming cms.<br>
 6. Import the provided SQL file. The file is known as cms.sql located inside the db folder.<br>
 7. Browse the Customer Care Registry in a browser. i.e. http://localhost/Customer%20Care%20Registry/. <br>
+
+
+
+## Team Details
+(https://github.com/prasoonkhandelwal/customer_care_registry/blob/main/Team%20Details.txt)
