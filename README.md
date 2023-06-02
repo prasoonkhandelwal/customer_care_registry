@@ -14,7 +14,7 @@ streamlined processes to empower customers and enhance complaint resolution effi
 [Report](https://github.com/prasoonkhandelwal/customer_care_registry/blob/main/Documentation/ProjectReport_Customer_Care_Registry.pdf) <br>
 [Report Latex file](https://github.com/prasoonkhandelwal/customer_care_registry/blob/main/Documentation/Customer_Care_Registry.zip) <br>
 [Software Requirenment Specification](https://github.com/prasoonkhandelwal/customer_care_registry/blob/main/Documentation/SRS_Customer_Care_Registry.pdf) <br>
-[From-1](https://github.com/prasoonkhandelwal/customer_care_registry/blob/main/Documentation/Form1.pdf)<br>
+[Form-1](https://github.com/prasoonkhandelwal/customer_care_registry/blob/main/Documentation/Form1.pdf)<br>
 [Form-3](https://github.com/prasoonkhandelwal/customer_care_registry/blob/main/Documentation/Form3.pdf)<br>
 
 ## Run Configuration
