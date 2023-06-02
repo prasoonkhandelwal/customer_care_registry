@@ -37,31 +37,28 @@ streamlined processes to empower customers and enhance complaint resolution effi
 
 ## Team Details
 
-Member 1
+### Member 1
 Name: Prasoon Khandelwal
 Roll: 19ESKIT069
 Branch: IT-B (G1)
 Role: Database Designer(Maria DB)
 
-********
 
-Member 2
+### Member 2
 Name: Manthan Jain
 Roll: 19ESKIT055
 Branch: IT-B (G1)
 Role: Frontend Developer(Javascript)
 
-********
 
-Member 3
+### Member 3
 Name: Nitin Jain
 Roll: 19ESKIT064
 Branch: IT-B (G1)
 Role: Backend Developer(PHP)
 
-********
 
-Member 4
+### Member 4
 Name: Nupur Mathur
 Roll: 19ESKIT065
 Branch: IT-B (G1)
